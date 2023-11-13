@@ -2,11 +2,6 @@ matplotlib
 numpy
 opencv_python
 torch
-transformers
-tqdm
 scikit-learn
-requests
-Pillow
-torchvision
 mediapipe
 msvc-runtime
