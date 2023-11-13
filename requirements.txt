@@ -5,3 +5,4 @@ torch
 scikit-learn
 mediapipe
 msvc-runtime
+ultralytics
