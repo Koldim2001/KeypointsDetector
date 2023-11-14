@@ -31,6 +31,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ## Webinar/Tutorial
 Имеется подробный туториал по работе с данным репозиторием, в котором рассказаны основные теоретические и практические моменты по работе с детекцией точек тела\
 Доступен по клику на иконку:\
-[![webinar video](images/logo.png)](https://youtu.be/kQoe0HWg9d0)
+[![webinar video](images/logo.png)](https://www.youtube.com/watch?v=RIiQeWJgjLw&t=4730s)
 
 
