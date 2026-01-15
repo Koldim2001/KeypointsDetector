@@ -12,7 +12,7 @@ git clone https://github.com/Koldim2001/KeypointsDetector.git
 ```
 cd KeypointsDetector
 ```
-3. Загрузите все необходимые библиотеки: 
+3. Загрузите все необходимые библиотеки: (важно чтобы была поставлена версия mediapipe==0.10.14, иначе есть шанс что не заработает код)
 ```
 pip install -r requirements.txt
 ```
