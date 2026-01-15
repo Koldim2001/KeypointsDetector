@@ -1,8 +1,7 @@
 matplotlib
 numpy
 opencv_python
-torch
 scikit-learn
-mediapipe
+mediapipe==0.10.14
 msvc-runtime
 ultralytics
